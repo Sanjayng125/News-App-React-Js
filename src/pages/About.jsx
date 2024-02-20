@@ -54,7 +54,7 @@ const About = () => {
               style={{
                 color: "blue",
               }}
-              href="https://github.com/Sanjayng125"
+              href="https://github.com/Sanjayng125/News-App-React-Js"
               target="_blank"
             >
               here
